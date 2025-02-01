@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/outerspace.jpg");
+    font-family: Comic-Sans;
+}
+
+@font-face {
+    font-family: Comic-Sans;
+    src: url('../fonts/IBMPlexSans-Regular.ttf');
+}
+

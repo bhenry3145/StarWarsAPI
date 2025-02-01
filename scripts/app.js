@@ -1,0 +1,1 @@
+import { saveToLocalStorage, getFromLocalStorage, removeFromLocalStorage } from "./localStorage.js";
