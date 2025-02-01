@@ -13,3 +13,7 @@ body {
     src: url('../fonts/IBMPlexSans-Regular.ttf');
 }
 
+.luke {
+    background-image: url("../images/luke.jpeg");
+    background-size: cover;
+}

@@ -551,6 +551,9 @@
   .w-20 {
     width: calc(var(--spacing) * 20);
   }
+  .w-fit {
+    width: fit-content;
+  }
   .w-screen {
     width: 100vw;
   }
