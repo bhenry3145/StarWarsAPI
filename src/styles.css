@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     background-image: url("../images/outerspace.jpg");
     font-family: Comic-Sans;
@@ -15,5 +10,15 @@ body {
 
 .luke {
     background-image: url("../images/luke.jpeg");
+    background-size: cover;
+}
+
+.c3po {
+    background-image: url('../images/c3po.png');
+    background-size: cover;
+}
+
+.lobot {
+    background-image: url('../images/lobot.jpg');
     background-size: cover;
 }
